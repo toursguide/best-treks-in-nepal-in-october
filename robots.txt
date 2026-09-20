@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://best-treks-in-nepal-in-october.netlify.app/
 
 # Google Bot
 User-agent: Googlebot
